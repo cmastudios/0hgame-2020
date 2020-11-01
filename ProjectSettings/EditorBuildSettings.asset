@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/KillerCrowbarDS.unity
+    guid: 0c619f198051fd5489e3ed2677e52aa4
   m_configObjects: {}
